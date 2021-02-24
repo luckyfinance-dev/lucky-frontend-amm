@@ -11,12 +11,13 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "Goose Golden Egg",
-      "symbol": "EGG",
+      "name": "Good Fortune Token",
+      "symbol": "GFT",
       "address": "0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
       "chainId": 56,
       "decimals": 18
     },
+    // bsc wallets
     {
       "name": "AUTOv2",
       "symbol": "AUTO",
