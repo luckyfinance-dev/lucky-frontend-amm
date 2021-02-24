@@ -27,9 +27,9 @@ const config: MenuEntry[] = [
     href: 'https://www.lucky.financial/farms'
   },
   {
-    label: 'Nests',
+    label: 'Fortunes',
     icon: 'PoolIcon',
-    href: 'https://www.lucky.financial/nests'
+    href: 'https://www.lucky.financial/fortunes'
   },
   // {
   //   label: 'Lottery',
