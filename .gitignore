@@ -38,3 +38,4 @@ cypress/fixtures/example.json
 
 .eslintcache
 /.github/
+src/connectors/NetworkConnector.ts
