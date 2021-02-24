@@ -1,5 +1,5 @@
 {
-  "name": "goose-frontend-amm",
+  "name": "lucky-frontend-amm",
   "description": "AMM Interface",
   "homepage": ".",
   "private": true,
@@ -7,7 +7,7 @@
     "@crowdin/crowdin-api-client": "^1.8.16",
     "@ethersproject/experimental": "^5.0.1",
     "@pancakeswap-libs/sdk": "1.0.1",
-    "@pancakeswap-libs/uikit": "goosedefi/goose-uikit",
+    "@pancakeswap-libs/uikit": "luckyfinance-dev/lucky-uikit",
     "@popperjs/core": "^2.4.4",
     "@reach/dialog": "^0.10.3",
     "@reach/portal": "^0.10.3",
