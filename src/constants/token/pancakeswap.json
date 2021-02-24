@@ -17,7 +17,6 @@
       "chainId": 56,
       "decimals": 18
     },
-    // bsc wallets
     {
       "name": "AUTOv2",
       "symbol": "AUTO",
