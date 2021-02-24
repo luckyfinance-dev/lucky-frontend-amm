@@ -72,15 +72,16 @@ const config: MenuEntry[] = [
       },
       {
         label: "Blog",
-        href: "https://goosefinance.medium.com/",
+        href: "https://medium.com/@luckyfinancial",
       },
     ],
   },
-  {
-    label: 'Audit by Hacken',
-    icon: 'AuditIcon',
-    href: 'https://www.goosedefi.com/files/hackenAudit.pdf',
-  },
+
+//  {
+//    label: 'Audit by Hacken',
+//    icon: 'AuditIcon',
+//    href: 'https://www.lucky.financial/files/TBD',
+//  },
 ]
 
 export default config
