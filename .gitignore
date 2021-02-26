@@ -35,6 +35,7 @@ package-lock.json
 cypress/videos
 cypress/screenshots
 cypress/fixtures/example.json
+.yarn.lock.icloud
 
 .eslintcache
 /.github/
