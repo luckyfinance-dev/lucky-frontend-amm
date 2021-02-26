@@ -28,14 +28,14 @@ const config: MenuEntry[] = [
   },
   {
     label: 'Fortunes',
-    icon: 'PoolIcon',
+    icon: 'SunIcon',
     href: 'https://www.lucky.financial/fortunes'
   },
-  // {
-  //   label: 'Lottery',
-  //   icon: 'TicketIcon',
-  //   href: 'https://www.lucky.financial/lottery'
-  // },
+  {
+    label: 'BigBang Lottery',
+    icon: 'TicketIcon',
+    href: 'https://www.lucky.financial/lottery'
+  },
   {
     label: 'Info',
     icon: 'InfoIcon',
