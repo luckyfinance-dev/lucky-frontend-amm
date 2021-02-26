@@ -1,7 +1,7 @@
 import { CurrencyAmount, JSBI, Token, Trade } from '@pancakeswap-libs/sdk'
 import React, { useCallback, useContext, useEffect, useMemo, useState } from 'react'
 import { ArrowDown } from 'react-feather'
-import { CardBody, ArrowDownIcon, Button, IconButton, Text } from '@pancakeswap-libs/uikit'
+import { Image, CardBody, ArrowDownIcon, Button, IconButton, Text } from '@pancakeswap-libs/uikit'
 import { ThemeContext } from 'styled-components'
 import AddressInputPanel from 'components/AddressInputPanel'
 import Card, { GreyCard } from 'components/Card'
@@ -486,6 +486,7 @@ const Swap = () => {
               {betterTradeLinkVersion && <BetterTradeLink version={betterTradeLinkVersion} />}
             </BottomGrouping>
           </CardBody>
+          <Image src="/images/gft/8.png" alt="illustration" width={1350} height={800} responsive/>
         </Wrapper>
       </AppBody>
       <AdvancedSwapDetailsDropdown trade={trade} />

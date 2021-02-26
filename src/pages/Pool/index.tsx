@@ -1,7 +1,7 @@
 import React, { useContext, useMemo } from 'react'
 import { ThemeContext } from 'styled-components'
 import { Pair } from '@pancakeswap-libs/sdk'
-import { Button, CardBody, Text } from '@pancakeswap-libs/uikit'
+import { Image, Button, CardBody, Text } from '@pancakeswap-libs/uikit'
 import { Link } from 'react-router-dom'
 import CardNav from 'components/CardNav'
 import Question from 'components/QuestionHelper'
@@ -124,6 +124,7 @@ export default function Pool() {
               </div>
             </AutoColumn>
           </CardBody>
+          <Image src="/images/gft/8.png" alt="illustration" width={1350} height={800} responsive />
         </AutoColumn>
       </AppBody>
     </>
