@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://www.lucky.financial'
+    href: 'https://lucky.financial'
   },
   {
     label: 'Trade',
@@ -24,17 +24,17 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://www.lucky.financial/farms'
+    href: 'https://lucky.financial/farms'
   },
   {
     label: 'Fortunes',
     icon: 'SunIcon',
-    href: 'https://www.lucky.financial/fortunes'
+    href: 'https://lucky.financial/fortunes'
   },
   {
     label: 'BigBang Lottery',
     icon: 'TicketIcon',
-    href: 'https://www.lucky.financial/lottery'
+    href: 'https://lucky.financial/lottery'
   },
   {
     label: 'Info',
@@ -80,7 +80,7 @@ const config: MenuEntry[] = [
 //  {
 //    label: 'Audit by Hacken',
 //    icon: 'AuditIcon',
-//    href: 'https://www.lucky.financial/files/TBD',
+//    href: 'https://lucky.financial/files/TBD',
 //  },
 ]
 
