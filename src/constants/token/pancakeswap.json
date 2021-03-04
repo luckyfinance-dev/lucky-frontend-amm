@@ -13,16 +13,18 @@
     {
       "name": "Good Fortune Token",
       "symbol": "GFT",
-      "address": "___",
+      "address": "0xb2Ba6fa707948f9A0BC420C35b78e5020A07bc4d",
       "chainId": 56,
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "/images/coins/GFT.png"
     },
     {
       "name": "AUTOv2",
       "symbol": "AUTO",
       "address": "0xa184088a740c695e156f91f5cc086a06bb78b827",
       "chainId": 56,
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "/images/coins/AUTO.png"
     },
     {
       "name": "WBNB Token",

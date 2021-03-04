@@ -20,7 +20,7 @@ describe('Add Liquidity', () => {
   it('single token can be selected', () => {
     cy.visit('/add/0x7083609fce4d1d8dc0c979aab8c869ea2c873402')
     cy.get('#add-liquidity-input-tokena .token-symbol-container').should('contain.text', 'DOT')
-    cy.visit('/add/0xe9e7cea3dedca5984780bafc599bd69add087d56')
+    cy.visit('/add/')
     cy.get('#add-liquidity-input-tokena .token-symbol-container').should('contain.text', 'BUSD')
   })
 
