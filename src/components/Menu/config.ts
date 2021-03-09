@@ -42,7 +42,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6',
+        href: 'https://pancakeswap.info/token/0xb2ba6fa707948f9a0bc420c35b78e5020a07bc4d',
       },
       {
         label: 'CoinGecko',
@@ -52,10 +52,10 @@ const config: MenuEntry[] = [
         label: 'CoinMarketCap',
         href: 'https://coinmarketcap.com/currencies/lucky-financial',
       },
-      {
-        label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0x19e7cbecdd23a16dfa5573df54d98f7caae03019',
-      },
+     // { Updaste Astro Tools Link once live.
+     //   label: 'AstroTools',
+     //   href: 'https://app.astrotools.io/pancake-pair-explorer/',
+    //  },
     ]
   },
   {
